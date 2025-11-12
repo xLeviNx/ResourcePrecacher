@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="CounterStrikeSharp.API" Version="*" />
+    <PackageReference Include="ValvePak" Version="2.0.1.107" />
   </ItemGroup>
 
 </Project>
